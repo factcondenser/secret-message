@@ -14,13 +14,4 @@ char_color_idx = start_color_idx = 0
   start_color_idx -= 1
   start_color_idx %= fancy_colors.length
 end
-
-
-
-
-
-
-
-
-
                 
